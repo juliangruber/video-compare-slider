@@ -6,6 +6,8 @@ them. Both videos play, pause, scrub and step frame by frame together.
 
 Made for judging film looks and renders of a music video: two 4K renders with heavy film grain, side by side, in sync.
 
+![Two looks of a music video render compared: the original grade on the left, a film stock version on the right, the divider through the middle of an eye](docs/screenshot.jpg)
+
 ## Install
 
 ```sh
