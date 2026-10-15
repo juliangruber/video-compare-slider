@@ -60,7 +60,7 @@ vcompare.py A B [--browser safari|firefox|chrome|default|none] [--mode auto|file
 ```
 
 `--blind` shows only the labels (no file names or file info), for blind comparisons; `scripts/duel_slider.py` shows
-the current match of a blind A/B tournament this way. See [SKILL.md](SKILL.md) for everything Claude is told.
+the current match of a blind A/B tournament ([visual-ab-duel](https://github.com/juliangruber/visual-ab-duel)) this way. See [SKILL.md](SKILL.md) for everything Claude is told.
 
 ## License
 
