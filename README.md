@@ -4,8 +4,6 @@ A [Claude Code](https://claude.com/claude-code) skill to compare two videos with
 on the left, video B on the right, and a handle on a vertical line (starting at 50%) that you drag to wipe between
 them. Both videos play, pause, scrub and step frame by frame together.
 
-Made for judging film looks and renders of a music video: two 4K renders with heavy film grain, side by side, in sync.
-
 ![Two looks of a music video render compared: the original grade on the left, a film stock version on the right, the divider through the middle of an eye](docs/screenshot.jpg)
 
 ## Install
